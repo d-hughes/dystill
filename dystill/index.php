@@ -13,7 +13,7 @@
     <frame>
     <noframes>
     <body>
-    <p>This pagettes uses frames.Test The current browser you are using does not support frames.</p>
+    <p>Index - Updates to come.</p>
     <?php
 		
 	?>
