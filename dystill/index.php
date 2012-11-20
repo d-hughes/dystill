@@ -20,7 +20,8 @@
     <div id="page-container">
     	
     	<div id="header">
-    		<h1>Dystopian Illusions</h1>
+    		<h1><img src=images/header_logo.png"
+    			alt="Dystopian Illusion" border="1" /></h1>
     	</div>
     	
     	<div id="main-nav">Main Navigation</div>
