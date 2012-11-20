@@ -6,6 +6,14 @@
 	<meta http-equiv="Content-Language" content="en-us" />
 	
 	<meta http-equiv="imagetoolbar" content="no" />
+	<meta name="MSSmartTagsPreventParsing" content="true" />
+	
+	<meta name="description" content="Description" />
+	<meta name="keywords" content="Keywords" />
+	
+	<meta name="author" content="Dwayne Hughes" />
+	
+	<style type="text/css" media="all">@import "css/master.css";</style>
 	
 </head>
 <frameset>
