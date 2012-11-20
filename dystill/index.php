@@ -21,7 +21,9 @@
     <frame>
     <noframes>
     <body>
-    <p>Index - Updates to come.</p>
+    <div id="page-container">
+    Hello Dystill.
+    </div>
     <?php
 		
 	?>
