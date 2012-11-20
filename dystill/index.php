@@ -19,9 +19,11 @@
     <body>
     <div id="page-container">
     	
-    	<div id="main-nav">Main Navigation</div>
+    	<div id="header">
+    		<h1>Dystopian Illusions</h1>
+    	</div>
     	
-    	<div id="header">Header</div>
+    	<div id="main-nav">Main Navigation</div>
     	
     	<div id="sidebar-a">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam gravida enim ut risus. 
 	Praesent sapien purus, ultrices a, varius ac, suscipit ut, enim. Maecenas in lectus. 
