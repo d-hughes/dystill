@@ -26,7 +26,10 @@ body {
 
 /* Main Navigation */
 
-#main-nav { height: 50px; }
+#main-nav { 
+	background: blue;
+	height: 50px; 
+}
 
 #main-foot { height: 20px; }
 
