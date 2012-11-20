@@ -26,7 +26,6 @@ h1 {
 	width: 760px;
 	margin: auto;
 	text-align: left;
-	background: red;
 }
 
 /* Main Navigation */
@@ -37,24 +36,20 @@ h1 {
 }
 
 #header {
-	background: blue;
 	height: 150px;
 }
 
 #footer {
 	clear: both;
-	background: orange;
 	height: 66px;
 }
 
 #sidebar-a {
 	float: right;
 	width: 280px;
-	background: darkgreen;
 }
 
 #content {
-	background: green;
 	margin-right: 280px;
 }
 
