@@ -18,7 +18,17 @@
 </head>
     <body>
     <div id="page-container">
-    Hello Dystill.
+    	
+    	<div id="main-nav">Main Navigation</div>
+    	
+    	<div id="header">Header</div>
+    	
+    	<div id="sidebar-a">Sidebar A</div>
+    	
+    	<div id="content">Content</div>
+    	
+    	<div id="foot">Footer</div>
+    
     </div>
     </body>
 </html>

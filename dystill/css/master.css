@@ -19,7 +19,7 @@ body {
 
 #page-container {
 	width: 760px;
-	
+	margin: auto;
 	text-align: left;
 	background: red;
 }
