@@ -19,11 +19,4 @@
 	<natures>
 		<nature>org.eclipse.php.core.PHPNature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>images/header_logo.png</name>
-			<type>1</type>
-			<location>C:/images/header_logo.png</location>
-		</link>
-	</linkedResources>
 </projectDescription>
