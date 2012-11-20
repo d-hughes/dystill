@@ -16,7 +16,7 @@
 	<style type="text/css" media="all">@import "css/master.css";</style>
 	
 </head>
-    <body>
+    <body background="black">
     <div id="page-container">
     Hello Dystill.
     </div>
