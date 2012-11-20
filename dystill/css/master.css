@@ -37,6 +37,7 @@ body {
 }
 
 #footer {
+	clear: both;
 	background: orange;
 	height: 66px;
 }
