@@ -16,16 +16,9 @@
 	<style type="text/css" media="all">@import "css/master.css";</style>
 	
 </head>
-<frameset>
-    <frame>
-    <frame>
-    <noframes>
     <body>
     <div id="page-container">
     Hello Dystill.
     </div>
-    Test
     </body>
-    </noframes>
-</frameset>
 </html>
