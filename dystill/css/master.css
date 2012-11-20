@@ -31,5 +31,23 @@ body {
 	height: 50px; 
 }
 
-#main-foot { height: 20px; }
+#header {
+	background: blue;
+	height: 150px;
+}
+
+#footer {
+	background: orange;
+	height: 66px;
+}
+
+#sidebar-a {
+	background: darkgreen;
+}
+
+#content {
+	background: green;
+}
+
+
 

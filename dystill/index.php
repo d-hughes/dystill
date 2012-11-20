@@ -27,7 +27,7 @@
     	
     	<div id="content">Content</div>
     	
-    	<div id="foot">Footer</div>
+    	<div id="footer">Footer</div>
     
     </div>
     </body>
