@@ -24,9 +24,7 @@
     <div id="page-container">
     Hello Dystill.
     </div>
-    <?php
-		
-	?>
+    Test
     </body>
     </noframes>
 </frameset>
