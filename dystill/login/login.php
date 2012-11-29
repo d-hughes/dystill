@@ -5,7 +5,7 @@ session_start();
 $token = $_SESSION['token'] = md5(uniqid(mt_rand(),true));
 
 ?>
-<form method="POST" action"<?=$_SERVER['PHP_SELF'];?>">
+<form method="POST" action="<?=$_SERVER['PHP_SELF'];?>">
 
 <table>
 	<tr><td>Username:</td><td><input type="text" name="username" /></td></tr>
