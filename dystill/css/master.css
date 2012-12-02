@@ -37,10 +37,12 @@ h1 {
 	background: red;
 	height: 50px;
 	color: white;
+	border:1px solid #040404;
 }
 
 #header {
 	height: 150px;
+	border:1px solid #040404;
 }
 
 #footer {
@@ -48,11 +50,13 @@ h1 {
 	height: 66px;
 	color: white;
 	background: red;
+	border:1px solid #040404;
 }
 
 #sidebar-a {
 	float: right;
 	width: 280px;
+	border:1px solid #040404;
 }
 
 #content {
