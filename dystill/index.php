@@ -44,5 +44,7 @@
     	<div id="footer">Footer</div>
     
     </div>
+    <div id="side-container">
+    </div>
     </body>
 </html>
