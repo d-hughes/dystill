@@ -17,6 +17,8 @@
 	
 </head>
     <body>
+    <div id="side-container">
+    </div>
     <div id="page-container">
     	
     	<div id="header">
@@ -44,7 +46,6 @@
     	<div id="footer">Footer</div>
     
     </div>
-    <div id="side-container">
-    </div>
+    
     </body>
 </html>
