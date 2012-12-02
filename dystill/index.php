@@ -18,6 +18,7 @@
 </head>
     <body>
     <div id="side-container">
+    <div>Testing</div>
     </div>
     <div id="page-container">
     	
