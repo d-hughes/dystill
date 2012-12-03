@@ -20,9 +20,7 @@
     
     <div id="page-container">
     
-    <div id="side-container">
-    <p>Testing</p>
-    </div>
+    
     
     <div id="main-container">
     	
@@ -44,6 +42,9 @@
 	purus. Suspendisse mattis nunc vestibulum ligula. In hac habitasse platea dictumst.</div>
     	
     	<div id="footer">Footer</div>
+    </div>
+    <div id="side-container">
+    <p>Testing</p>
     </div>
     </div>
     
