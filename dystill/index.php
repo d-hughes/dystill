@@ -19,9 +19,11 @@
     <body>
     
     <div id="page-container">
-    	<div id="side-container">
+    <div id="side-container">
     <p>Testing</p>
     </div>
+    <div id="page-cont2">
+    	
     	<div id="header">
     		<h1><img src="images/header_logo.png"
     			alt="Dystopian Illusion" border="0" width="760px" /></h1>
@@ -45,7 +47,7 @@
 	purus. Suspendisse mattis nunc vestibulum ligula. In hac habitasse platea dictumst.</div>
     	
     	<div id="footer">Footer</div>
-    
+    </div>
     </div>
     
     </body>
