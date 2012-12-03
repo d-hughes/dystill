@@ -74,7 +74,7 @@ h1 {
 #side-container {
 	float: right;
 	width: 180px;
-	background: #333333;
+	background: #222222;
 }
 
 #twitter-header {
@@ -85,7 +85,7 @@ h1 {
 #twitter-feed {
 	display: block;
 	padding:0px 10px;
-	background:#222222;
+	background: #333333;
 	border:1px solid #040404;
 }
 
