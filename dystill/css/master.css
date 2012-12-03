@@ -23,11 +23,11 @@ h1 {
 }
 
 #page-container {
-	width: 942px; /* was 940 */
+	width: 943px; /* was 940 */
 	margin: auto;
 	text-align: left;
 	margin-top: 10px;
-	background: orange /*#333333*/;
+	background: #333333;
 	/*border:1px solid #040404;*/
 }
 
