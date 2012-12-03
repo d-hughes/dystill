@@ -69,7 +69,7 @@ h1 {
 }
 
 #main-container{
-	clear: both;
+	clear: right;
 	margin-right: 180px;
 	/*width: 760px;*/
 	text-align: left;
