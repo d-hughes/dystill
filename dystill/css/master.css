@@ -26,7 +26,7 @@ h1 {
 	width: 940px;
 	margin: auto;
 	text-align: left;
-	/*margin-top: 10px;*/
+	margin-top: 10px;
 	background: orange /*#333333*/;
 	/*border:1px solid #040404;*/
 }
@@ -69,6 +69,7 @@ h1 {
 }
 
 #main-container{
+	clear: right;
 	margin-right: 180px;
 	/*width: 760px;*/
 	text-align: left;
