@@ -20,7 +20,9 @@
     
     <div id="page-container">
     
-    
+    <div id="side-container">
+    <p>Testing</p>
+    </div>
     
     <div id="main-container">
     	
@@ -43,9 +45,7 @@
     	
     	<div id="footer">Footer</div>
     </div>
-    <div id="side-container">
-    <p>Testing</p>
-    </div>
+    
     </div>
     
     </body>
