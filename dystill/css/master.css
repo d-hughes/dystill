@@ -41,7 +41,6 @@ h1 {
 
 #header {
 	height: 150px;
-	margin-right: 280px;
 }
 
 #footer {
@@ -49,7 +48,6 @@ h1 {
 	height: 66px;
 	color: white;
 	background: red;
-	margin-right: 280px;
 }
 
 #sidebar-a {
@@ -74,6 +72,10 @@ h1 {
 	background: #333333;
 	height: 25%;
 	align: right;
+}
+
+#page-cont2{
+	margin-right: 280px
 }
 
 
