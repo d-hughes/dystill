@@ -44,7 +44,7 @@ h1 {
 }
 
 #footer {
-	clear: both;
+	/*clear: both;*/
 	height: 66px;
 	color: white;
 	background: red;
@@ -53,6 +53,7 @@ h1 {
 #sidebar-a {
 	float: right;
 	width: 280px;
+	color: white;
 }
 
 #content {
