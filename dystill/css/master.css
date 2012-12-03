@@ -73,6 +73,7 @@ h1 {
 }
 
 #page-cont2{
+	clear: both;
 	margin-right: 180px;
 	width: 760px;
 	text-align: left;
