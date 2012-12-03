@@ -75,7 +75,12 @@ h1 {
 }
 
 #page-cont2{
-	margin-right: 280px
+	margin-right: 280px;
+	width: 760px;
+	text-align: left;
+	margin-top: 10px;
+	background: #333333;
+	border:1px solid #040404;
 }
 
 
