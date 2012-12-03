@@ -49,15 +49,17 @@ h1 {
 	height: 66px;
 	color: white;
 	background: red;
+	margin-right: 280px;
 }
 
 #sidebar-a {
 	float: right;
 	width: 280px;
+	margin-right: 280px;
 }
 
 #content {
-	margin-right: 280px;
+	margin-right: 560px;
 }
 
 
