@@ -23,7 +23,7 @@ h1 {
 }
 
 #page-container {
-	width: 760px;
+	width: 1040px;
 	margin: auto;
 	text-align: left;
 	margin-top: 10px;
@@ -41,6 +41,7 @@ h1 {
 
 #header {
 	height: 150px;
+	margin-right: 760px;
 }
 
 #footer {
