@@ -33,6 +33,14 @@ h1 {
 
 /* Main Navigation */
 
+#main-container{
+	margin-right: 180px;
+	width: 760px;
+	text-align: left;
+	background: #333333;
+	/*border:1px solid #040404;*/
+}
+
 #main-nav { 
 	background: red;
 	height: 50px;
@@ -69,13 +77,16 @@ h1 {
 	background: blue;
 }
 
-#main-container{
-	margin-right: 180px;
-	width: 760px;
-	text-align: left;
-	background: #333333;
-	/*border:1px solid #040404;*/
+#twitter-header {
+	display: block;
+	height: 60px;
 }
 
+#twitter-feed {
+	display: block;
+	padding:0px 10px;
+	background:#333333;
+	border:1px solid #040404;
+}
 
 

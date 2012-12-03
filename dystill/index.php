@@ -21,7 +21,12 @@
     <div id="page-container">
     
     <div id="side-container">
-    <p>Testing<br/>Testing<br/>Testing<br/>Testing</p>
+    	<div id="twitter-header">
+    		<p>Twitter Header</p>
+    		<div id="twitter-feed">
+    			<p>Twitter Feed</p>
+    		</div>
+    	</div>
     </div>
     
     <div id="main-container">
