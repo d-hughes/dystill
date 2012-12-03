@@ -22,7 +22,7 @@
     <div id="side-container">
     <p>Testing</p>
     </div>
-    <div id="page-cont2">
+    <div id="main-container">
     	
     	<div id="header">
     		<h1><img src="images/header_logo.png"
