@@ -20,7 +20,7 @@
     
     <div id="page-container">
     	<div id="side-container">
-    <div>Testing</div>
+    <p>Testing</p>
     </div>
     	<div id="header">
     		<h1><img src="images/header_logo.png"
