@@ -74,7 +74,7 @@ h1 {
 #main-container{
 	clear: both;
 	margin-right: 180px;
-	width: 760px;
+	/*width: 760px;*/
 	text-align: left;
 	margin-top: 10px;
 	background: #333333;
