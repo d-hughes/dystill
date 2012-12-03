@@ -23,7 +23,6 @@ h1 {
 }
 
 #page-container {
-	clear: both;
 	width: 940px;
 	margin: auto;
 	text-align: left;
@@ -70,7 +69,6 @@ h1 {
 }
 
 #main-container{
-	clear: right;
 	margin-right: 180px;
 	/*width: 760px;*/
 	text-align: left;
