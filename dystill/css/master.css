@@ -29,7 +29,6 @@ h1 {
 	margin-top: 10px;
 	background: #333333;
 	border:1px solid #040404;
-	margin-right: 280px;
 }
 
 /* Main Navigation */
@@ -74,6 +73,7 @@ h1 {
 }
 
 #page-cont2{
+	margin-right: 280px;
 	width: 760px;
 	text-align: left;
 	margin-top: 10px;
