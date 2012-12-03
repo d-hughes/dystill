@@ -23,7 +23,7 @@ h1 {
 }
 
 #page-container {
-	width: 940px;
+	width: 1040px; /* was 940 */
 	margin: auto;
 	text-align: left;
 	margin-top: 10px;
@@ -44,7 +44,7 @@ h1 {
 }
 
 #footer {
-	/*clear: both;*/
+	clear: both;
 	height: 66px;
 	color: white;
 	background: red;
