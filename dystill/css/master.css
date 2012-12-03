@@ -23,7 +23,8 @@ h1 {
 }
 
 #page-container {
-	width: 1060px;
+	clear: both;
+	width: 940px;
 	margin: auto;
 	text-align: left;
 	margin-top: 10px;
