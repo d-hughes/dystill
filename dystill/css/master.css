@@ -78,6 +78,7 @@ h1 {
 }
 
 #twitter-header {
+	margin-top: 10px;
 	display: block;
 	height: 60px;
 }
