@@ -17,11 +17,11 @@
 	
 </head>
     <body>
-    <div id="side-container">
+    
+    <div id="page-container">
+    	<div id="side-container">
     <div>Testing</div>
     </div>
-    <div id="page-container">
-    	
     	<div id="header">
     		<h1><img src="images/header_logo.png"
     			alt="Dystopian Illusion" border="0" width="760px" /></h1>
