@@ -65,6 +65,7 @@ h1 {
 #side-container {
 	float: right;
 	width: 180px;
+	background: blue;
 }
 
 #main-container{
